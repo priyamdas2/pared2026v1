@@ -4,7 +4,9 @@
 
 ## 📚 Citation
 
-> Das P, Robinson S, Peterson C (2026): pared: Model selection using multi-objective optimization, *Bioinformatics Advances*, 6(1), vbag211.  
+> Das P, Robinson S, Peterson C (2026).
+> *pared: Model selection using multi-objective optimization*.
+> **Bioinformatics Advances**, 6(1), vbag211.  
 > **Link**: [https://doi.org/10.1093/bioadv/vbag211](https://doi.org/10.1093/bioadv/vbag211)
 
 ## 💻 Code citation
